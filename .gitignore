@@ -1,0 +1,9 @@
+# Ignore large model files
+results/grundfos_pump/RandomForest_pipeline.joblib
+results/haas_cnc/RandomForest_pipeline.joblib
+results/abb_bearing/RandomForest_pipeline.joblib
+results/carrier_chiller/RandomForest_pipeline.joblib
+results/siemens_motor/RandomForest_pipeline.joblib
+
+# Ignore large data files
+redundant/data/improved_synthetic/combined_dataset.csv
